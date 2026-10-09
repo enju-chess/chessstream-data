@@ -1,0 +1,3169 @@
+[
+ {
+  "name": "FIDE Candidates 2026",
+  "channel": "FIDE",
+  "keywords": [
+   "candidates 2026"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "fGON0E0ej60",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 1,
+    "id": "O6WabG9dr2A",
+    "label": "Aleksandra Goryachkina vs Kateryna Lagno",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 1,
+    "id": "xO2bRPeGdio",
+    "label": "Divya Deshmukh vs Anna Muzychuk",
+    "players": [
+     "Divya Deshmukh",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 1,
+    "id": "w9x8ddIHRj8",
+    "label": "Fabiano Caruana vs Hikaru Nakamura",
+    "players": [
+     "Fabiano Caruana",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "4cDsYeiJyGs",
+    "label": "Javokhir Sindarov vs Andrey Esipenko",
+    "players": [
+     "Javokhir Sindarov",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "G_B94qy7EdU",
+    "label": "Matthias Bluebaum vs Wei Yi",
+    "players": [
+     "Matthias Bluebaum",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "Kzu_JcxEEG0",
+    "label": "Praggnanandhaa R vs Anish Giri",
+    "players": [
+     "Praggnanandhaa R",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "gbqh79rSrUA",
+    "label": "Vaishali Rameshbabu vs Bibisara Assaubayeva",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 1,
+    "id": "obXZjYo46Cc",
+    "label": "Zhu Jiner vs Tan Zhongyi",
+    "players": [
+     "Zhu Jiner",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 1,
+    "id": "n3H1VsyE7e0",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 2,
+    "id": "yTj7pdcdDDQ",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 2,
+    "id": "3xT2KOwcEJE",
+    "label": "Andrey Esipenko vs Hikaru Nakamura",
+    "players": [
+     "Andrey Esipenko",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "apoUU2zxrac",
+    "label": "Anish Giri vs Fabiano Caruana",
+    "players": [
+     "Anish Giri",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "X_6MWXk54H8",
+    "label": "Anna Muzychuk vs Tan Zhongyi",
+    "players": [
+     "Anna Muzychuk",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "m9ckHhcqKYA",
+    "label": "Bibisara Assaubayeva vs Aleksandra Goryachkina",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "9rCHS7_J-mc",
+    "label": "Divya Deshmukh vs Vaishali Rameshbabu",
+    "players": [
+     "Divya Deshmukh",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "AzQwY-eQAS0",
+    "label": "Javokhir Sindarov vs Matthias Bluebaum",
+    "players": [
+     "Javokhir Sindarov",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "p-PO5xQdyaU",
+    "label": "Kateryna Lagno vs Zhu Jiner",
+    "players": [
+     "Kateryna Lagno",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "jiGPSNwhF5M",
+    "label": "Wei Yi vs Praggnanandhaa R",
+    "players": [
+     "Wei Yi",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "ialEjHI9aNQ",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 3,
+    "id": "HSuoogTG-hI",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 3,
+    "id": "uIASk9GuMAw",
+    "label": "Aleksandra Goryachkina vs Divya Deshmukh",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 3,
+    "id": "JuTsIXvmWvA",
+    "label": "Fabiano Caruana vs Wei Yi",
+    "players": [
+     "Fabiano Caruana",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "Ez4friJ-mjo",
+    "label": "Hikaru Nakamura vs Anish Giri",
+    "players": [
+     "Hikaru Nakamura",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "ojx3golNVpc",
+    "label": "Matthias Bluebaum vs Andrey Esipenko",
+    "players": [
+     "Matthias Bluebaum",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "c9jnk9O6frg",
+    "label": "Praggnanandhaa R vs Javokhir Sindarov",
+    "players": [
+     "Praggnanandhaa R",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "emgBW55wT78",
+    "label": "Tan Zhongyi vs Kateryna Lagno",
+    "players": [
+     "Tan Zhongyi",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 3,
+    "id": "g_qZuz_DrNc",
+    "label": "Vaishali Rameshbabu vs Anna Muzychuk",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 3,
+    "id": "fB-1wtcPMOw",
+    "label": "Zhu Jiner vs Bibisara Assaubayeva",
+    "players": [
+     "Zhu Jiner",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 3,
+    "id": "M3f6uA7L_nQ",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 4,
+    "id": "Ug2Yp4Y6oHM",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 4,
+    "id": "yMJJhQvrcT8",
+    "label": "Andrey Esipenko vs Anish Giri",
+    "players": [
+     "Andrey Esipenko",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "tKvlJXrv9KE",
+    "label": "Anna Muzychuk vs Kateryna Lagno",
+    "players": [
+     "Anna Muzychuk",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "Z-mIJ_CQ-CU",
+    "label": "Bibisara Assaubayeva vs Tan Zhongyi",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "plBfVsK5IH0",
+    "label": "Divya Deshmukh vs Zhu Jiner",
+    "players": [
+     "Divya Deshmukh",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "5r6pH9EDQQo",
+    "label": "Javokhir Sindarov vs Fabiano Caruana",
+    "players": [
+     "Javokhir Sindarov",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "HdbPXqsQ2Dg",
+    "label": "Matthias Bluebaum vs Praggnanandhaa R",
+    "players": [
+     "Matthias Bluebaum",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "VNiSz6Tofnc",
+    "label": "Vaishali Rameshbabu vs Aleksandra Goryachkina",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "fKNfq0uN9gI",
+    "label": "Wei Yi vs Hikaru Nakamura",
+    "players": [
+     "Wei Yi",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "bh_d57vaLM8",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 5,
+    "id": "DV1t49YFHLY",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 5,
+    "id": "liu08TReuG4",
+    "label": "Aleksandra Goryachkina vs Anna Muzychuk",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 5,
+    "id": "xPyIfgK7udc",
+    "label": "Anish Giri vs Wei Yi",
+    "players": [
+     "Anish Giri",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "IzZrI5masGg",
+    "label": "Fabiano Caruana vs Matthias Bluebaum",
+    "players": [
+     "Fabiano Caruana",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "ru-UnmNlvxQ",
+    "label": "Hikaru Nakamura vs Javokhir Sindarov",
+    "players": [
+     "Hikaru Nakamura",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "kw1M0vkM4O8",
+    "label": "Kateryna Lagno vs Bibisara Assaubayeva",
+    "players": [
+     "Kateryna Lagno",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 5,
+    "id": "lIBgY-eHH2Q",
+    "label": "Praggnanandhaa R vs Andrey Esipenko",
+    "players": [
+     "Praggnanandhaa R",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "-r3vqlFIpgI",
+    "label": "Tan Zhongyi vs Divya Deshmukh",
+    "players": [
+     "Tan Zhongyi",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 5,
+    "id": "QClOx08tO1I",
+    "label": "Zhu Jiner vs Vaishali Rameshbabu",
+    "players": [
+     "Zhu Jiner",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 5,
+    "id": "8lw1C5C1_Qw",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 6,
+    "id": "l8gyL05ilUw",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 6,
+    "id": "-aaYY5NnDyg",
+    "label": "Anish Giri vs Matthias Bluebaum",
+    "players": [
+     "Anish Giri",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "y8OE9OfXWcs",
+    "label": "Bibisara Assaubayeva vs Divya Deshmukh",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "3LgeiQpM73M",
+    "label": "Fabiano Caruana vs Andrey Esipenko",
+    "players": [
+     "Fabiano Caruana",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "35Ayp48n3CA",
+    "label": "Hikaru Nakamura vs Praggnanandhaa R",
+    "players": [
+     "Hikaru Nakamura",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "af_KOqjV0fM",
+    "label": "Kateryna Lagno vs Vaishali Rameshbabu",
+    "players": [
+     "Kateryna Lagno",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "ZP4i5xH4KnU",
+    "label": "Tan Zhongyi vs Aleksandra Goryachkina",
+    "players": [
+     "Tan Zhongyi",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "LajnXANaHcQ",
+    "label": "Wei Yi vs Javokhir Sindarov",
+    "players": [
+     "Wei Yi",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "0uXpnGOtNgY",
+    "label": "Zhu Jiner vs Anna Muzychuk",
+    "players": [
+     "Zhu Jiner",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "YQ68mMt9zeQ",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 7,
+    "id": "ViSAymeoGiU",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 7,
+    "id": "1AJLQDKxu-U",
+    "label": "Aleksandra Goryachkina vs Zhu Jiner",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 7,
+    "id": "BAlkbC4-j8A",
+    "label": "Andrey Esipenko vs Wei Yi",
+    "players": [
+     "Andrey Esipenko",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "5fInle-pfcM",
+    "label": "Anna Muzychuk vs Bibisara Assaubayeva",
+    "players": [
+     "Anna Muzychuk",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 7,
+    "id": "uv5qRz8bQE0",
+    "label": "Divya Deshmukh vs Kateryna Lagno",
+    "players": [
+     "Divya Deshmukh",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 7,
+    "id": "HE6eOMjOyAc",
+    "label": "Javokhir Sindarov vs Anish Giri",
+    "players": [
+     "Javokhir Sindarov",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "_bDdEnIaPLQ",
+    "label": "Matthias Bluebaum vs Hikaru Nakamura",
+    "players": [
+     "Matthias Bluebaum",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "7U85oPIipAI",
+    "label": "Praggnanandhaa R vs Fabiano Caruana",
+    "players": [
+     "Praggnanandhaa R",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "AoOApqocoYg",
+    "label": "Vaishali Rameshbabu vs Tan Zhongyi",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 7,
+    "id": "7D49ptDr8wg",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 8,
+    "id": "cGadB2D4UuU",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 8,
+    "id": "wQBfYE2lSTU",
+    "label": "Andrey Esipenko vs Javokhir Sindarov",
+    "players": [
+     "Andrey Esipenko",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "SA0R2O83FcQ",
+    "label": "Anish Giri vs Praggnanandhaa R",
+    "players": [
+     "Anish Giri",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "UZvAJO_lUQI",
+    "label": "Anna Muzychuk vs Divya Deshmukh",
+    "players": [
+     "Anna Muzychuk",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "JjZ5Mr49UaY",
+    "label": "Bibisara Assaubayeva vs Vaishali Rameshbabu",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "nt0Gn13E1D4",
+    "label": "Hikaru Nakamura vs Fabiano Caruana",
+    "players": [
+     "Hikaru Nakamura",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "8AF032heHdY",
+    "label": "Kateryna Lagno vs Aleksandra Goryachkina",
+    "players": [
+     "Kateryna Lagno",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "Br2xBrodo-k",
+    "label": "Tan Zhongyi vs Zhu Jiner",
+    "players": [
+     "Tan Zhongyi",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "73Vnfrrqw-Q",
+    "label": "Wei Yi vs Matthias Bluebaum",
+    "players": [
+     "Wei Yi",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "aEwdlseS3JU",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 9,
+    "id": "SDBZJ3i_4fs",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 9,
+    "id": "X6JAG3D7pPg",
+    "label": "Aleksandra Goryachkina vs Bibisara Assaubayeva",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "EgViCajZ4g0",
+    "label": "Fabiano Caruana vs Anish Giri",
+    "players": [
+     "Fabiano Caruana",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "AIRGdUm-rs0",
+    "label": "Hikaru Nakamura vs Andrey Esipenko",
+    "players": [
+     "Hikaru Nakamura",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "Y2IAYWypsac",
+    "label": "Matthias Bluebaum vs Javokhir Sindarov",
+    "players": [
+     "Matthias Bluebaum",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "ysNmLhQOzu4",
+    "label": "Praggnanandhaa R vs Wei Yi",
+    "players": [
+     "Praggnanandhaa R",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "ptcn-BiYNdE",
+    "label": "Tan Zhongyi vs Anna Muzychuk",
+    "players": [
+     "Tan Zhongyi",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "2YZ-lzuOq40",
+    "label": "Vaishali Rameshbabu vs Divya Deshmukh",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "13BDQJDZfls",
+    "label": "Zhu Jiner vs Kateryna Lagno",
+    "players": [
+     "Zhu Jiner",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "B4au9eb7FbM",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 10,
+    "id": "uEwWeI7FWj8",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 10,
+    "id": "moslWSRTmMY",
+    "label": "Andrey Esipenko vs Matthias Bluebaum",
+    "players": [
+     "Andrey Esipenko",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "OOForAd5-9w",
+    "label": "Anish Giri vs Hikaru Nakamura",
+    "players": [
+     "Anish Giri",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "yHDPgRzyxhM",
+    "label": "Anna Muzychuk vs Vaishali Rameshbabu",
+    "players": [
+     "Anna Muzychuk",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 10,
+    "id": "9285WU7u5J4",
+    "label": "Bibisara Assaubayeva vs Zhu Jiner",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 10,
+    "id": "91wyR5JBjWU",
+    "label": "Divya Deshmukh vs Aleksandra Goryachkina",
+    "players": [
+     "Divya Deshmukh",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 10,
+    "id": "BDah6ft9rHY",
+    "label": "Javokhir Sindarov vs Praggnanandhaa R",
+    "players": [
+     "Javokhir Sindarov",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "wIW-O0Fjk_c",
+    "label": "Kateryna Lagno vs Tan Zhongyi",
+    "players": [
+     "Kateryna Lagno",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 10,
+    "id": "L5nsiEf_pGA",
+    "label": "Wei Yi vs Fabiano Caruana",
+    "players": [
+     "Wei Yi",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "VR-usZ4heLk",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 11,
+    "id": "N4pYj7bn6XA",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 11,
+    "id": "ugepbSDMLzo",
+    "label": "Aleksandra Goryachkina vs Vaishali Rameshbabu",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "f0nB34WZM5A",
+    "label": "Anish Giri vs Andrey Esipenko",
+    "players": [
+     "Anish Giri",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "IYDJpagea2k",
+    "label": "Fabiano Caruana vs Javokhir Sindarov",
+    "players": [
+     "Fabiano Caruana",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "Ew3A71fDt9s",
+    "label": "Hikaru Nakamura vs Wei Yi",
+    "players": [
+     "Hikaru Nakamura",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "oYHNDwhIe80",
+    "label": "Kateryna Lagno vs Anna Muzychuk",
+    "players": [
+     "Kateryna Lagno",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "-ii3TMJRRfs",
+    "label": "Praggnanandhaa R vs Matthias Bluebaum",
+    "players": [
+     "Praggnanandhaa R",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "pps5QmxA-yk",
+    "label": "Tan Zhongyi vs Bibisara Assaubayeva",
+    "players": [
+     "Tan Zhongyi",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "dtkB4Ta1tXc",
+    "label": "Zhu Jiner vs Divya Deshmukh",
+    "players": [
+     "Zhu Jiner",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "0dg1K890X1c",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 12,
+    "id": "N3JEa9qV6Es",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 12,
+    "id": "0NQYy6HdiO0",
+    "label": "Andrey Esipenko vs Praggnanandhaa R",
+    "players": [
+     "Andrey Esipenko",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 12,
+    "id": "PLgvr21x4TI",
+    "label": "Anna Muzychuk vs Aleksandra Goryachkina",
+    "players": [
+     "Anna Muzychuk",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 12,
+    "id": "mcQh94_ByGU",
+    "label": "Bibisara Assaubayeva vs Kateryna Lagno",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 12,
+    "id": "GMDZOikMqZI",
+    "label": "Divya Deshmukh vs Tan Zhongyi",
+    "players": [
+     "Divya Deshmukh",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 12,
+    "id": "iA7w_ULxSIE",
+    "label": "Javokhir Sindarov vs Hikaru Nakamura",
+    "players": [
+     "Javokhir Sindarov",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 12,
+    "id": "9v5v-eNdM_w",
+    "label": "Matthias Bluebaum vs Fabiano Caruana",
+    "players": [
+     "Matthias Bluebaum",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 12,
+    "id": "9UE_arnpD2M",
+    "label": "Vaishali Rameshbabu vs Zhu Jiner",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 12,
+    "id": "r-D6ZfEMHXU",
+    "label": "Wei Yi vs Anish Giri",
+    "players": [
+     "Wei Yi",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 12,
+    "id": "5kt09C57eXU",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 13,
+    "id": "YetaLdC9aBw",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 13,
+    "id": "EEhGXWP7XPY",
+    "label": "Anish Giri vs Javokhir Sindarov",
+    "players": [
+     "Anish Giri",
+     "Javokhir Sindarov"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 13,
+    "id": "yNEVF0amtz0",
+    "label": "Bibisara Assaubayeva vs Anna Muzychuk",
+    "players": [
+     "Bibisara Assaubayeva",
+     "Anna Muzychuk"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 13,
+    "id": "KMUjy1T-9vM",
+    "label": "Fabiano Caruana vs Praggnanandhaa R",
+    "players": [
+     "Fabiano Caruana",
+     "Praggnanandhaa R"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 13,
+    "id": "7u9zRjq3ePw",
+    "label": "Hikaru Nakamura vs Matthias Bluebaum",
+    "players": [
+     "Hikaru Nakamura",
+     "Matthias Bluebaum"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 13,
+    "id": "cPjiAgZkYSY",
+    "label": "Kateryna Lagno vs Divya Deshmukh",
+    "players": [
+     "Kateryna Lagno",
+     "Divya Deshmukh"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 13,
+    "id": "G3RNFAkjkPg",
+    "label": "Tan Zhongyi vs Vaishali Rameshbabu",
+    "players": [
+     "Tan Zhongyi",
+     "Vaishali Rameshbabu"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 13,
+    "id": "RQ-6mxTxAto",
+    "label": "Wei Yi vs Andrey Esipenko",
+    "players": [
+     "Wei Yi",
+     "Andrey Esipenko"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 13,
+    "id": "rAW2XirY23k",
+    "label": "Zhu Jiner vs Aleksandra Goryachkina",
+    "players": [
+     "Zhu Jiner",
+     "Aleksandra Goryachkina"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 13,
+    "id": "97u09KN9bME",
+    "label": "全盤（実況なし）"
+   },
+   {
+    "round": 14,
+    "id": "odd2bVZ_cv8",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 14,
+    "id": "gmGYzRmz7AQ",
+    "label": "Aleksandra Goryachkina vs Tan Zhongyi",
+    "players": [
+     "Aleksandra Goryachkina",
+     "Tan Zhongyi"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 14,
+    "id": "9J2Lxg01zd8",
+    "label": "Andrey Esipenko vs Fabiano Caruana",
+    "players": [
+     "Andrey Esipenko",
+     "Fabiano Caruana"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 14,
+    "id": "CPtL6rekYfs",
+    "label": "Anna Muzychuk vs Zhu Jiner",
+    "players": [
+     "Anna Muzychuk",
+     "Zhu Jiner"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 14,
+    "id": "ZoYhhoG6dIY",
+    "label": "Divya Deshmukh vs Bibisara Assaubayeva",
+    "players": [
+     "Divya Deshmukh",
+     "Bibisara Assaubayeva"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 14,
+    "id": "EeREqwlAQ10",
+    "label": "Javokhir Sindarov vs Wei Yi",
+    "players": [
+     "Javokhir Sindarov",
+     "Wei Yi"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 14,
+    "id": "d1mSmwhEsWQ",
+    "label": "Matthias Bluebaum vs Anish Giri",
+    "players": [
+     "Matthias Bluebaum",
+     "Anish Giri"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 14,
+    "id": "vpA6nNPkJhs",
+    "label": "Praggnanandhaa R vs Hikaru Nakamura",
+    "players": [
+     "Praggnanandhaa R",
+     "Hikaru Nakamura"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 14,
+    "id": "ImVD3Rr28KM",
+    "label": "Vaishali Rameshbabu vs Kateryna Lagno",
+    "players": [
+     "Vaishali Rameshbabu",
+     "Kateryna Lagno"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 14,
+    "id": "1gReczwVUgI",
+    "label": "全盤（実況なし）"
+   }
+  ],
+  "commentary": "Peter Svidler・Jan Gustafsson"
+ },
+ {
+  "name": "Chess Olympiad 2026",
+  "channel": "FIDE",
+  "keywords": [
+   "olympiad samarkand 2026"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "cpbe-4FjtWc",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 1,
+    "id": "U-rI-lfyC0E",
+    "label": "China vs Uganda",
+    "feds": [
+     "CHN",
+     "UGA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "Kip74ZUOgVw",
+    "label": "Faroe Islands vs Germany",
+    "feds": [
+     "FAI",
+     "GER"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "d_l7-CD1nhw",
+    "label": "India vs Thailand",
+    "feds": [
+     "IND",
+     "THA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "zBfdpyqTHkk",
+    "label": "Iraq vs USA",
+    "feds": [
+     "IRQ",
+     "USA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "wUQgekxKHJs",
+    "label": "Jamaica vs Uzbekistan",
+    "feds": [
+     "JAM",
+     "UZB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "XTa7S_xT_E4",
+    "label": "Kazakhstan vs Botswana",
+    "feds": [
+     "KAZ",
+     "BOT"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 1,
+    "id": "MH7zdfjOk-w",
+    "label": "Morocco vs Azerbaijan",
+    "feds": [
+     "MAR",
+     "AZE"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 1,
+    "id": "zQVoQZLQJLw",
+    "label": "Netherlands vs Hong Kong",
+    "feds": [
+     "NED",
+     "HKG"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "met8JDNxDQQ",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 2,
+    "id": "aRU7dVA0eVY",
+    "label": "Azerbaijan vs Philippines",
+    "feds": [
+     "AZE",
+     "PHI"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "StNs0RnTWqA",
+    "label": "Bosnia and Herzegovina vs Kazakhstan",
+    "feds": [
+     "BIH",
+     "KAZ"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "2_K7bYTfrEs",
+    "label": "Colombia vs Hungary",
+    "feds": [
+     "COL",
+     "HUN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "fmUuyAbKMAk",
+    "label": "Ecuador vs Uzbekistan",
+    "feds": [
+     "ECU",
+     "UZB"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "EcKV7rSabYQ",
+    "label": "Finland vs India",
+    "feds": [
+     "FIN",
+     "IND"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "WnVmGd4Gx_U",
+    "label": "Georgia vs Montenegro",
+    "feds": [
+     "GEO",
+     "MNE"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 2,
+    "id": "bVilWT4BGMc",
+    "label": "Germany vs Uzbekistan 3",
+    "feds": [
+     "GER",
+     "UZB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "3HbLnZjaezs",
+    "label": "Indonesia vs India",
+    "feds": [
+     "INA",
+     "IND"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 2,
+    "id": "J6a-5sYzVvo",
+    "label": "USA vs Mongolia",
+    "feds": [
+     "USA",
+     "MGL"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "HjwFA8kp1bw",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 3,
+    "id": "qtInG-sVe4g",
+    "label": "Austria vs Uzbekistan",
+    "feds": [
+     "AUT",
+     "UZB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "hFKflB4modQ",
+    "label": "China vs Bulgaria",
+    "feds": [
+     "CHN",
+     "BUL"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "7NMH1SIsZ5M",
+    "label": "Denmark vs USA",
+    "feds": [
+     "DEN",
+     "USA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "BwobmFN14RU",
+    "label": "India vs Greece",
+    "feds": [
+     "IND",
+     "GRE"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 3,
+    "id": "Y0C_xiBs9mI",
+    "label": "India vs Italy",
+    "feds": [
+     "IND",
+     "ITA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "ybNFKN5jOqk",
+    "label": "Kazakhstan vs Slovenia",
+    "feds": [
+     "KAZ",
+     "SLO"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 3,
+    "id": "kGLROSat8Ug",
+    "label": "Netherlands vs Australia",
+    "feds": [
+     "NED",
+     "AUS"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "ctrQDlScArA",
+    "label": "Uzbekistan 2 vs Germany",
+    "feds": [
+     "UZB",
+     "GER"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 3,
+    "id": "6Ydw5f8a1iM",
+    "label": "Uzbekistan vs Indonesia",
+    "feds": [
+     "UZB",
+     "INA"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "bIM05R9qY8I",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 4,
+    "id": "N7w0Oejp5t8",
+    "label": "Armenia vs Kazakhstan",
+    "feds": [
+     "ARM",
+     "KAZ"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "pn9ZsXNqU7A",
+    "label": "Germany vs Poland",
+    "feds": [
+     "GER",
+     "POL"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "C4LjP67qXmk",
+    "label": "Greece vs Netherlands",
+    "feds": [
+     "GRE",
+     "NED"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "yZodDejjNUc",
+    "label": "Mongolia vs India",
+    "feds": [
+     "MGL",
+     "IND"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "hgocBXz5BZM",
+    "label": "Serbia vs China",
+    "feds": [
+     "SRB",
+     "CHN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "okrwd1ZcXdU",
+    "label": "Spain vs India",
+    "feds": [
+     "ESP",
+     "IND"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "iMVp1o4qWgA",
+    "label": "USA vs Ukraine",
+    "feds": [
+     "USA",
+     "UKR"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 4,
+    "id": "1ALUJwyXf4o",
+    "label": "Uzbekistan vs Argentina",
+    "feds": [
+     "UZB",
+     "ARG"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 4,
+    "id": "Pz2AiLXBurI",
+    "label": "Uzbekistan vs Turkiye",
+    "feds": [
+     "UZB",
+     "TUR"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "pf_XzJcBITw",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 5,
+    "id": "G_veszehjUg",
+    "label": "China vs Armenia",
+    "feds": [
+     "CHN",
+     "ARM"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "ARa6D6yLKPY",
+    "label": "Czech Republic vs France",
+    "feds": [
+     "CZE",
+     "FRA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "_PNNrHeJ4m0",
+    "label": "Germany vs USA",
+    "feds": [
+     "GER",
+     "USA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "FNLWk4lo9Ak",
+    "label": "Hungary vs Uzbekistan",
+    "feds": [
+     "HUN",
+     "UZB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "d3hGj0tIbgg",
+    "label": "India vs Netherlands",
+    "feds": [
+     "IND",
+     "NED"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "nO2AD2ZXsQo",
+    "label": "India vs Poland",
+    "feds": [
+     "IND",
+     "POL"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 5,
+    "id": "T_KDcMW0ogs",
+    "label": "Kazakhstan vs Germany",
+    "feds": [
+     "KAZ",
+     "GER"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 5,
+    "id": "aOZCSrbC49E",
+    "label": "Romania vs Azerbaijan",
+    "feds": [
+     "ROU",
+     "AZE"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 5,
+    "id": "-TKqtX5Wyjk",
+    "label": "USA vs Uzbekistan",
+    "feds": [
+     "USA",
+     "UZB"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "2LSWCQxvhcU",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 6,
+    "id": "GeFEgSDWyL4",
+    "label": "Armenia vs Iran",
+    "feds": [
+     "ARM",
+     "IRI"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "E6_F_Whf1jU",
+    "label": "Azerbaijan vs Kazakhstan",
+    "feds": [
+     "AZE",
+     "KAZ"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "revicHF1O9k",
+    "label": "China vs Germany",
+    "feds": [
+     "CHN",
+     "GER"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "V_5T1YJmtXo",
+    "label": "France vs England",
+    "feds": [
+     "FRA",
+     "ENG"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "ea1vrhUHUzY",
+    "label": "Georgia vs Uzbekistan",
+    "feds": [
+     "GEO",
+     "UZB"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "E0n4WWswQ1c",
+    "label": "Netherlands vs Israel",
+    "feds": [
+     "NED",
+     "ISR"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "aHnQ3F2K8M4",
+    "label": "Poland vs China",
+    "feds": [
+     "POL",
+     "CHN"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 6,
+    "id": "qW8F8MNkRhc",
+    "label": "USA vs Norway",
+    "feds": [
+     "USA",
+     "NOR"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 6,
+    "id": "wWKiF5s8O80",
+    "label": "Uzbekistan vs India",
+    "feds": [
+     "UZB",
+     "IND"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "Z5JQbBa3vDE",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 7,
+    "id": "1pb4VCNsOWA",
+    "label": "Armenia vs USA",
+    "feds": [
+     "ARM",
+     "USA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "NVrHsCYWKgw",
+    "label": "China vs Kazakhstan",
+    "feds": [
+     "CHN",
+     "KAZ"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 7,
+    "id": "3GdW7fe0wak",
+    "label": "England vs India",
+    "feds": [
+     "ENG",
+     "IND"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "0fjuWUW3YfE",
+    "label": "Germany vs India",
+    "feds": [
+     "GER",
+     "IND"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 7,
+    "id": "jQM-OVgaDf4",
+    "label": "Germany vs Turkiye",
+    "feds": [
+     "GER",
+     "TUR"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "J2T8yHGngc0",
+    "label": "Netherlands vs Bulgaria",
+    "feds": [
+     "NED",
+     "BUL"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "CypMt_JdrzM",
+    "label": "Uzbekistan vs China",
+    "feds": [
+     "UZB",
+     "CHN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 7,
+    "id": "2vi1L2tg8TE",
+    "label": "Uzbekistan vs Slovenia",
+    "feds": [
+     "UZB",
+     "SLO"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "MD2bcOXy87c",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 8,
+    "id": "ybrsN78pV2c",
+    "label": "China vs Poland",
+    "feds": [
+     "CHN",
+     "POL"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "rmWCUzuqV3o",
+    "label": "Czech Republic vs Hungary",
+    "feds": [
+     "CZE",
+     "HUN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "L6RuPOtrses",
+    "label": "Georgia vs China",
+    "feds": [
+     "GEO",
+     "CHN"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "haVZc18h8f4",
+    "label": "Germany vs Uzbekistan",
+    "feds": [
+     "GER",
+     "UZB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "H5vqutB0YQY",
+    "label": "India vs Azerbaijan",
+    "feds": [
+     "IND",
+     "AZE"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "HpoIOikHIHE",
+    "label": "Kazakhstan vs India",
+    "feds": [
+     "KAZ",
+     "IND"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "9m9dZRLdhEY",
+    "label": "Netherlands vs Armenia",
+    "feds": [
+     "NED",
+     "ARM"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 8,
+    "id": "4U4MDN7-by8",
+    "label": "Netherlands vs Uzbekistan",
+    "feds": [
+     "NED",
+     "UZB"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 8,
+    "id": "R6yKy7yz0eg",
+    "label": "USA vs Serbia",
+    "feds": [
+     "USA",
+     "SRB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "KHQ064FmCd8",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 9,
+    "id": "KWCtVWmofSw",
+    "label": "Azerbaijan vs Armenia",
+    "feds": [
+     "AZE",
+     "ARM"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "mZm3OUvv4iA",
+    "label": "China vs Armenia",
+    "feds": [
+     "CHN",
+     "ARM"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "WxAR2yEhIG0",
+    "label": "France vs China",
+    "feds": [
+     "FRA",
+     "CHN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "DyDWjIC1zxQ",
+    "label": "Hungary vs Austria",
+    "feds": [
+     "HUN",
+     "AUT"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "ahUnSzOVS2U",
+    "label": "India vs Germany",
+    "feds": [
+     "IND",
+     "GER"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "S7rcCiaULFk",
+    "label": "India vs Uzbekistan",
+    "feds": [
+     "IND",
+     "UZB"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "2kbGGCl4RM4",
+    "label": "Mongolia vs Kazakhstan",
+    "feds": [
+     "MGL",
+     "KAZ"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 9,
+    "id": "GB9HkUs1MiU",
+    "label": "Uzbekistan 2 vs Netherlands",
+    "feds": [
+     "UZB",
+     "NED"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 9,
+    "id": "oQxXSPLXXjs",
+    "label": "Uzbekistan vs USA",
+    "feds": [
+     "UZB",
+     "USA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "-OFm_VrDTCo",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 10,
+    "id": "DyDonfUz8Yo",
+    "label": "Armenia vs Uzbekistan",
+    "feds": [
+     "ARM",
+     "UZB"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "Rb1kxcdrp1Q",
+    "label": "China vs India",
+    "feds": [
+     "CHN",
+     "IND"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 10,
+    "id": "HCYr4JgjmcQ",
+    "label": "Germany vs France",
+    "feds": [
+     "GER",
+     "FRA"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "uRMb8fo5nU0",
+    "label": "Hungary vs Spain",
+    "feds": [
+     "HUN",
+     "ESP"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "FaZ9xs7kli0",
+    "label": "Kazakhstan vs France",
+    "feds": [
+     "KAZ",
+     "FRA"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 10,
+    "id": "p5MMo9jvmiY",
+    "label": "Ukraine vs China",
+    "feds": [
+     "UKR",
+     "CHN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "TZANN90korc",
+    "label": "Uzbekistan 2 vs India",
+    "feds": [
+     "UZB",
+     "IND"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 10,
+    "id": "HLLroHhtUA8",
+    "label": "Uzbekistan vs Peru",
+    "feds": [
+     "UZB",
+     "PER"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "xL-j4UXDb08",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 11,
+    "id": "F88z--n3BqE",
+    "label": "Armenia vs Uzbekistan",
+    "feds": [
+     "ARM",
+     "UZB"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "Sso0NcBOBPI",
+    "label": "China vs Vietnam",
+    "feds": [
+     "CHN",
+     "VIE"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "xLe-bgDO54o",
+    "label": "India vs Hungary",
+    "feds": [
+     "IND",
+     "HUN"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "vesc9dBcCmQ",
+    "label": "Netherlands vs Germany",
+    "feds": [
+     "NED",
+     "GER"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "MyHFITtX4xQ",
+    "label": "Poland vs Kazakhstan",
+    "feds": [
+     "POL",
+     "KAZ"
+    ],
+    "section": "women"
+   },
+   {
+    "round": 11,
+    "id": "q2RkYR8kxxc",
+    "label": "Serbia vs Azerbaijan",
+    "feds": [
+     "SRB",
+     "AZE"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "5xTBF07Py1o",
+    "label": "USA vs Turkiye",
+    "feds": [
+     "USA",
+     "TUR"
+    ],
+    "section": "open"
+   },
+   {
+    "round": 11,
+    "id": "j7_br3NZ_IY",
+    "label": "Uzbekistan vs Ukraine",
+    "feds": [
+     "UZB",
+     "UKR"
+    ],
+    "section": "open"
+   }
+  ]
+ },
+ {
+  "name": "FIDE Grand Swiss 2025",
+  "channel": "FIDE",
+  "keywords": [
+   "grand swiss 2025"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "WDbn_USY4H4",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 1,
+    "id": "G-GLrU1BlNc",
+    "label": "Board 1: Jeffery Xiong vs Praggnanandhaa R",
+    "players": [
+     "Jeffery Xiong",
+     "Praggnanandhaa R"
+    ]
+   },
+   {
+    "round": 1,
+    "id": "7ArEq5diMfI",
+    "label": "Board 2: Arjun Erigaisi vs Maksim Chigaev",
+    "players": [
+     "Arjun Erigaisi",
+     "Maksim Chigaev"
+    ]
+   },
+   {
+    "round": 1,
+    "id": "MwABhVNI-D8",
+    "label": "Board 3: Etienne Bacrot vs Gukesh D",
+    "players": [
+     "Etienne Bacrot",
+     "Gukesh D"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "zmBdjax9_BA",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 2,
+    "id": "jKRJCOvbTMk",
+    "label": "Board 1: Gukesh D vs Yagiz Kaan Erdogmus",
+    "players": [
+     "Gukesh D",
+     "Yagiz Kaan Erdogmus"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "fIMwb3hrDew",
+    "label": "Board 2: Maxim Rodshtein vs Alireza Firouzja",
+    "players": [
+     "Maxim Rodshtein",
+     "Alireza Firouzja"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "FrwIKOSJUYs",
+    "label": "Board 3: Frederik Svane vs Nodirbek Abdusattorov",
+    "players": [
+     "Frederik Svane",
+     "Nodirbek Abdusattorov"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "p-fNoFiT5Io",
+    "label": "Board 4: Anish Giri vs A.R. Saleh Salem",
+    "players": [
+     "Anish Giri",
+     "A.R. Saleh Salem"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "BFGbAUNbks4",
+    "label": "Board 57: Alexander Donchenko vs Divya Deshmukh",
+    "players": [
+     "Alexander Donchenko",
+     "Divya Deshmukh"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "4_eaHweOOZA",
+    "label": "Board 5: Abhimanyu Puranik vs Vidit Santosh Gujrathi",
+    "players": [
+     "Abhimanyu Puranik",
+     "Vidit Santosh Gujrathi"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "C8pH-3Fephc",
+    "label": "Board 6: Parham Maghsoodloo vs David Anton Guijarro",
+    "players": [
+     "Parham Maghsoodloo",
+     "David Anton Guijarro"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "P08HH1U_O9k",
+    "label": "Board 7: Anton Demchenko vs Sam Shankland",
+    "players": [
+     "Anton Demchenko",
+     "Sam Shankland"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "qvrhCw0fQso",
+    "label": "Board 8: Aydin Suleymanli vs Boris Gelfand",
+    "players": [
+     "Aydin Suleymanli",
+     "Boris Gelfand"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "m2cC4M-5XWI",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 3,
+    "id": "pH0uQpWPHW4",
+    "label": "Board 1: Alireza Firouzja vs Parham Maghsoodloo",
+    "players": [
+     "Alireza Firouzja",
+     "Parham Maghsoodloo"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "NkF5LtFJ3Cw",
+    "label": "Board 2: Arjun Erigaisi vs Anton Demchenko",
+    "players": [
+     "Arjun Erigaisi",
+     "Anton Demchenko"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "53DLe339ILU",
+    "label": "Board 3: Boris Gelfand vs Praggnanandhaa R",
+    "players": [
+     "Boris Gelfand",
+     "Praggnanandhaa R"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "l1FzpR_pI7w",
+    "label": "Board 4: Daniil Yuffa vs Gukesh D",
+    "players": [
+     "Daniil Yuffa",
+     "Gukesh D"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "gRMazpPsX1M",
+    "label": "Board 57: Divya Deshmukh vs Murali Karthikeyan",
+    "players": [
+     "Divya Deshmukh",
+     "Murali Karthikeyan"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "kIHcgugKvnI",
+    "label": "Board 5: Yagiz Kaan Erdogmus vs Vincent Keymer",
+    "players": [
+     "Yagiz Kaan Erdogmus",
+     "Vincent Keymer"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "2ydxAUayswk",
+    "label": "Board 6: Nodirbek Abdusattorov vs Abhimanyu Puranik",
+    "players": [
+     "Nodirbek Abdusattorov",
+     "Abhimanyu Puranik"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "36x3fzU_aLk",
+    "label": "Board 7: Anish Giri vs Frederik Svane",
+    "players": [
+     "Anish Giri",
+     "Frederik Svane"
+    ]
+   },
+   {
+    "round": 3,
+    "id": "miXdlOp2aQo",
+    "label": "Board 8: A.R. Saleh Salem vs Ian Nepomniachtchi",
+    "players": [
+     "A.R. Saleh Salem",
+     "Ian Nepomniachtchi"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "73LielFHT3s",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 4,
+    "id": "CA0bMBZIcO0",
+    "label": "Board 1: Parham Maghsoodloo vs Nodirbek Abdusattorov",
+    "players": [
+     "Parham Maghsoodloo",
+     "Nodirbek Abdusattorov"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "AVTizQjiE3o",
+    "label": "Board 2: Praggnanandhaa R vs Abhimanyu Mishra",
+    "players": [
+     "Praggnanandhaa R",
+     "Abhimanyu Mishra"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "ChsF7_SoYDE",
+    "label": "Board 3: Gukesh D vs Arjun Erigaisi",
+    "players": [
+     "Gukesh D",
+     "Arjun Erigaisi"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "dWTQhQDN130",
+    "label": "Board 4: Alireza Firouzja vs Szymon Gumularz",
+    "players": [
+     "Alireza Firouzja",
+     "Szymon Gumularz"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "Q0j7DJ8VRdI",
+    "label": "Board 5: Vincent Keymer vs Frederik Svane",
+    "players": [
+     "Vincent Keymer",
+     "Frederik Svane"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "ujaVTGa42vs",
+    "label": "Board 6: Ivan Cheparinov vs Anish Giri",
+    "players": [
+     "Ivan Cheparinov",
+     "Anish Giri"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "P5cjGvrO3hw",
+    "label": "Board 7: A.R. Saleh Salem vs Levon Aronian",
+    "players": [
+     "A.R. Saleh Salem",
+     "Levon Aronian"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "esJmVbxbbw8",
+    "label": "Board 8: Ian Nepomniachtchi vs Robert Hovhannisyan",
+    "players": [
+     "Ian Nepomniachtchi",
+     "Robert Hovhannisyan"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "pjW5taBLRkc",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 5,
+    "id": "dRhmNe1rBD0",
+    "label": "Board 1: Richard Rapport vs Parham Maghsoodloo",
+    "players": [
+     "Richard Rapport",
+     "Parham Maghsoodloo"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "pleW2QMn_Pk",
+    "label": "Board 2: Matthias Bluebaum vs Praggnanandhaa R",
+    "players": [
+     "Matthias Bluebaum",
+     "Praggnanandhaa R"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "l5n4ESUmYDY",
+    "label": "Board 3: Arjun Erigaisi vs Nikita Vitiugov",
+    "players": [
+     "Arjun Erigaisi",
+     "Nikita Vitiugov"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "u2J6sDIQtXo",
+    "label": "Board 4: Abhimanyu Mishra vs Gukesh D",
+    "players": [
+     "Abhimanyu Mishra",
+     "Gukesh D"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "GDu-lxfXPdw",
+    "label": "Board 57: Divya Deshmukh vs Shamsiddin Vokhidov",
+    "players": [
+     "Divya Deshmukh",
+     "Shamsiddin Vokhidov"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "Hy9BS5-28l8",
+    "label": "Board 5: Marcandria Maurizzi vs Vincent Keymer",
+    "players": [
+     "Marcandria Maurizzi",
+     "Vincent Keymer"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "43q5ViL26lw",
+    "label": "Board 6: Nodirbek Abdusattorov vs Yagiz Kaan Erdogmus",
+    "players": [
+     "Nodirbek Abdusattorov",
+     "Yagiz Kaan Erdogmus"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "6pHTW8rSxgs",
+    "label": "Board 7: Nodirbek Yakubboev vs Szymon Gumularz",
+    "players": [
+     "Nodirbek Yakubboev",
+     "Szymon Gumularz"
+    ]
+   },
+   {
+    "round": 5,
+    "id": "VnChhFbttt4",
+    "label": "Board 8: Sam Shankland vs Alireza Firouzja",
+    "players": [
+     "Sam Shankland",
+     "Alireza Firouzja"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "689ZOY9oPoI",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 6,
+    "id": "IKdx7Su2IM8",
+    "label": "Board 1: Parham Maghsoodloo vs Arjun Erigaisi",
+    "players": [
+     "Parham Maghsoodloo",
+     "Arjun Erigaisi"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "FrDI4DqbwQs",
+    "label": "Board 2: Matthias Bluebaum vs Abhimanyu Mishra",
+    "players": [
+     "Matthias Bluebaum",
+     "Abhimanyu Mishra"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "jPReFaNRnFY",
+    "label": "Board 3: Marcandria Maurizzi vs Anish Giri",
+    "players": [
+     "Marcandria Maurizzi",
+     "Anish Giri"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "9DN85A3FKLQ",
+    "label": "Board 4: M. Amin Tabatabaei vs Alireza Firouzja",
+    "players": [
+     "M. Amin Tabatabaei",
+     "Alireza Firouzja"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "Z936Sc1IxjE",
+    "label": "Board 57: Gabriel Sargissian vs Divya Deshmukh",
+    "players": [
+     "Gabriel Sargissian",
+     "Divya Deshmukh"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "0WG6mvnhFZ8",
+    "label": "Board 5: Maxim Rodshtein vs Nodirbek Abdusattorov",
+    "players": [
+     "Maxim Rodshtein",
+     "Nodirbek Abdusattorov"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "XA-Z9_bnsQM",
+    "label": "Board 6: Yagiz Kaan Erdogmus vs Shakhriyar Mamedyarov",
+    "players": [
+     "Yagiz Kaan Erdogmus",
+     "Shakhriyar Mamedyarov"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "C8sGgUxCBG0",
+    "label": "Board 7: Szymon Gumularz vs Nihal Sarin",
+    "players": [
+     "Szymon Gumularz",
+     "Nihal Sarin"
+    ]
+   },
+   {
+    "round": 6,
+    "id": "p_ctTnK5SBs",
+    "label": "Board 8: Nodirbek Yakubboev vs Pranav V",
+    "players": [
+     "Nodirbek Yakubboev",
+     "Pranav V"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "PKSz0nAOLz4",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 7,
+    "id": "bsIobuUZ4v0",
+    "label": "Board 1: Nihal Sarin vs Parham Maghsoodloo",
+    "players": [
+     "Nihal Sarin",
+     "Parham Maghsoodloo"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "gxh3a3kcOYo",
+    "label": "Board 2: Arjun Erigaisi vs Matthias Bluebaum",
+    "players": [
+     "Arjun Erigaisi",
+     "Matthias Bluebaum"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "RTb6oSGAiRY",
+    "label": "Board 3: Anish Giri vs Abhimanyu Mishra",
+    "players": [
+     "Anish Giri",
+     "Abhimanyu Mishra"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "Po7fuNjZ-78",
+    "label": "Board 4: Alireza Firouzja vs Nodirbek Yakubboev",
+    "players": [
+     "Alireza Firouzja",
+     "Nodirbek Yakubboev"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "MRu5GlQKp3c",
+    "label": "Board 57: Divya Deshmukh vs Velimir Ivic",
+    "players": [
+     "Divya Deshmukh",
+     "Velimir Ivic"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "UhCuIhEyNZY",
+    "label": "Board 5: Nikolas Theodorou vs Vincent Keymer",
+    "players": [
+     "Nikolas Theodorou",
+     "Vincent Keymer"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "fhiRh40Qh0U",
+    "label": "Board 6: Nodirbek Abdusattorov vs M. Amin Tabatabaei",
+    "players": [
+     "Nodirbek Abdusattorov",
+     "M. Amin Tabatabaei"
+    ]
+   },
+   {
+    "round": 7,
+    "id": "hhHZRCMNIug",
+    "label": "Board 7: Shakhriyar Mamedyarov vs Shant Sargsyan",
+    "players": [
+     "Shakhriyar Mamedyarov",
+     "Shant Sargsyan"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "ZM9FfeK0-P4",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 8,
+    "id": "0gDMgPVximw",
+    "label": "Board 1: Matthias Bluebaum vs Nihal Sarin",
+    "players": [
+     "Matthias Bluebaum",
+     "Nihal Sarin"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "lX6r2G2qjac",
+    "label": "Board 2: Alireza Firouzja vs Hans Moke Niemann",
+    "players": [
+     "Alireza Firouzja",
+     "Hans Moke Niemann"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "7hgvLBZ7Taw",
+    "label": "Board 3: Abhimanyu Mishra vs Nodirbek Abdusattorov",
+    "players": [
+     "Abhimanyu Mishra",
+     "Nodirbek Abdusattorov"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "xxCD7ctZ7rE",
+    "label": "Board 4: Parham Maghsoodloo vs Anish Giri",
+    "players": [
+     "Parham Maghsoodloo",
+     "Anish Giri"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "ZdSjqWhEeGQ",
+    "label": "Board 57: Gukesh D vs Divya Deshmukh",
+    "players": [
+     "Gukesh D",
+     "Divya Deshmukh"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "bvFTjBd9Toc",
+    "label": "Board 5: Vincent Keymer vs Vidit Santosh Gujrathi",
+    "players": [
+     "Vincent Keymer",
+     "Vidit Santosh Gujrathi"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "xinrL5ELjRo",
+    "label": "Board 6: Richard Rapport vs Praggnanandhaa R",
+    "players": [
+     "Richard Rapport",
+     "Praggnanandhaa R"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "NOWnjxcZ65I",
+    "label": "Board 7: Shant Sargsyan vs Arjun Erigaisi",
+    "players": [
+     "Shant Sargsyan",
+     "Arjun Erigaisi"
+    ]
+   },
+   {
+    "round": 8,
+    "id": "z8yuVo6yLfY",
+    "label": "Board 8: Ian Nepomniachtchi vs Pranav V",
+    "players": [
+     "Ian Nepomniachtchi",
+     "Pranav V"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "dyzuSM-AN4g",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 9,
+    "id": "7FAEybhoGzU",
+    "label": "Board 1: Nihal Sarin vs Alireza Firouzja",
+    "players": [
+     "Nihal Sarin",
+     "Alireza Firouzja"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "AMIweHYfd8E",
+    "label": "Board 2: Nodirbek Abdusattorov vs Matthias Bluebaum",
+    "players": [
+     "Nodirbek Abdusattorov",
+     "Matthias Bluebaum"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "C7nqpW5uwXc",
+    "label": "Board 3: Parham Maghsoodloo vs Vincent Keymer",
+    "players": [
+     "Parham Maghsoodloo",
+     "Vincent Keymer"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "7q5ryVT3bD0",
+    "label": "Board 4: Anish Giri vs Jorden van Foreest",
+    "players": [
+     "Anish Giri",
+     "Jorden van Foreest"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "BSXPdEmiXxQ",
+    "label": "Board 57: Divya Deshmukh vs Sanan Sjugirov",
+    "players": [
+     "Divya Deshmukh",
+     "Sanan Sjugirov"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "6N9WOZzjXes",
+    "label": "Board 5: Hans Moke Niemann vs Abhimanyu Mishra",
+    "players": [
+     "Hans Moke Niemann",
+     "Abhimanyu Mishra"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "cfpS3GDooco",
+    "label": "Board 6: Praggnanandhaa R vs Awonder Liang",
+    "players": [
+     "Praggnanandhaa R",
+     "Awonder Liang"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "OLTxPavNAAQ",
+    "label": "Board 7: Arjun Erigaisi vs Samuel Sevian",
+    "players": [
+     "Arjun Erigaisi",
+     "Samuel Sevian"
+    ]
+   },
+   {
+    "round": 9,
+    "id": "p9VBxjC7GmM",
+    "label": "Board 8: Ivan Saric vs Ian Nepomniachtchi",
+    "players": [
+     "Ivan Saric",
+     "Ian Nepomniachtchi"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "wtrR5jKMnOo",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 10,
+    "id": "Mk__kG9gCIc",
+    "label": "Board 1: Alireza Firouzja vs Anish Giri",
+    "players": [
+     "Alireza Firouzja",
+     "Anish Giri"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "tze-wZ_JTd0",
+    "label": "Board 2: Vincent Keymer vs Matthias Bluebaum",
+    "players": [
+     "Vincent Keymer",
+     "Matthias Bluebaum"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "pi9MHHcfVpg",
+    "label": "Board 3: Yu Yangyi vs Arjun Erigaisi",
+    "players": [
+     "Yu Yangyi",
+     "Arjun Erigaisi"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "3a3wnItK5mk",
+    "label": "Board 4: Nihal Sarin vs Nodirbek Abdusattorov",
+    "players": [
+     "Nihal Sarin",
+     "Nodirbek Abdusattorov"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "7XfwSX1DKK4",
+    "label": "Board 57: Aleksandar Indjic vs Divya Deshmukh",
+    "players": [
+     "Aleksandar Indjic",
+     "Divya Deshmukh"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "o1sJIGDS0fI",
+    "label": "Board 5: Abhimanyu Mishra vs Maxime Vachier-Lagrave",
+    "players": [
+     "Abhimanyu Mishra",
+     "Maxime Vachier-Lagrave"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "I1Aor2PQjJc",
+    "label": "Board 6: Hans Moke Niemann vs Praggnanandhaa R",
+    "players": [
+     "Hans Moke Niemann",
+     "Praggnanandhaa R"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "dMKxb7ElaKA",
+    "label": "Board 7: Ian Nepomniachtchi vs Nodirbek Yakubboev",
+    "players": [
+     "Ian Nepomniachtchi",
+     "Nodirbek Yakubboev"
+    ]
+   },
+   {
+    "round": 10,
+    "id": "5fxgNyMAr34",
+    "label": "Board 8: Amin Tabatabaei vs Shakhriyar Mamedyarov",
+    "players": [
+     "Amin Tabatabaei",
+     "Shakhriyar Mamedyarov"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "IeSyZ63XRl8",
+    "label": "FIDE 全体"
+   },
+   {
+    "round": 11,
+    "id": "gT-ebQlLo10",
+    "label": "Board 1: Matthias Bluebaum vs Alireza Firouzja",
+    "players": [
+     "Matthias Bluebaum",
+     "Alireza Firouzja"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "jqWPmIEMmcU",
+    "label": "Board 2: Anish Giri vs Hans Moke Niemann",
+    "players": [
+     "Anish Giri",
+     "Hans Moke Niemann"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "yHkB9PzEiCs",
+    "label": "Board 3: Arjun Erigaisi vs Vincent Keymer",
+    "players": [
+     "Arjun Erigaisi",
+     "Vincent Keymer"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "hJtpiLkFwXE",
+    "label": "Board 4: Nodirbek Abdusattorov vs Awonder Liang",
+    "players": [
+     "Nodirbek Abdusattorov",
+     "Awonder Liang"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "62h7O9Ns_eA",
+    "label": "Board 57: Divya Deshmukh vs Ivan Cheparinov",
+    "players": [
+     "Divya Deshmukh",
+     "Ivan Cheparinov"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "bnVsmQ8w6Jw",
+    "label": "Board 5: Maxime Vachier-Lagrave vs Nihal Sarin",
+    "players": [
+     "Maxime Vachier-Lagrave",
+     "Nihal Sarin"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "6xi4DjrYZRc",
+    "label": "Board 6: Andy Woodward vs Yu Yangyi",
+    "players": [
+     "Andy Woodward",
+     "Yu Yangyi"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "ZbzHGXH-PlY",
+    "label": "Board 7: Vidit Santosh Gujrathi vs Abhimanyu Mishra",
+    "players": [
+     "Vidit Santosh Gujrathi",
+     "Abhimanyu Mishra"
+    ]
+   },
+   {
+    "round": 11,
+    "id": "mRxH_7NeE9w",
+    "label": "Board 8: Andrey Esipenko vs Ian Nepomniachtchi",
+    "players": [
+     "Andrey Esipenko",
+     "Ian Nepomniachtchi"
+    ]
+   }
+  ]
+ }
+]
