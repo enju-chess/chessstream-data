@@ -3167,6 +3167,176 @@
   ]
  },
  {
+  "name": "2026 Clutch Chess: Champions Showdown",
+  "tour": "o6sVDB4M",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2026 clutch chess: champions showdown"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "WFfARQhRgdo",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "BxWc-f155hI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "81XmBYc9dyo",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   }
+  ],
+  "start": 1793120400000
+ },
+ {
+  "name": "U.S. Chess Championships 2026 | Open",
+  "tour": "Bkg9PAup",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "u.s. chess championships 2026 | open"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "-1S6va5adWQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "AaAFhiN0D04",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "0QP4JV18-kQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "QOkyLS761es",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "bh1LDJ9Pe-I",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "p70FXf4N_Ek",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "X7MRVU3zdkE",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "1U7E-WmZwqQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "W2vL5FYSo90",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 10,
+    "id": "qgWJf5bsNLg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 11,
+    "id": "KzdcBgvT_Dc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 12,
+    "id": "UfHS4jMWhnU",
+    "label": "Fabiano Caruana vs Wesley So",
+    "players": [
+     "Fabiano Caruana",
+     "Wesley So"
+    ]
+   }
+  ],
+  "start": 1791565800000
+ },
+ {
+  "name": "U.S. Chess Championships 2026 | Women",
+  "tour": "Lqf5DE6M",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "u.s. chess championships 2026 | women"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "-1S6va5adWQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "AaAFhiN0D04",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "0QP4JV18-kQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "QOkyLS761es",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "bh1LDJ9Pe-I",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "p70FXf4N_Ek",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "X7MRVU3zdkE",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "1U7E-WmZwqQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "W2vL5FYSo90",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 10,
+    "id": "qgWJf5bsNLg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 11,
+    "id": "KzdcBgvT_Dc",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1791565800000
+ },
+ {
   "name": "46th FIDE Chess Olympiad Samarkand 2026 | Women | Matches 76+",
   "tour": "oQuU2arG",
   "channel": "chess24",
@@ -3778,6 +3948,35 @@
   "start": 1789293600000
  },
  {
+  "name": "2026 Clutch Chess: The Legends",
+  "tour": "Yuvc8mPR",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2026 clutch chess: the legends"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "ThrAFLQ_FnA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "J4Ayz4KPOFw",
+    "label": "Saint Louis Chess Club",
+    "toRound": 8
+   },
+   {
+    "round": 9,
+    "id": "1DpImvHNi6E",
+    "label": "Saint Louis Chess Club",
+    "toRound": 12
+   }
+  ],
+  "start": 1789146000000
+ },
+ {
   "name": "Tech Mahindra Global Chess League 2026 | Preliminary Stage",
   "tour": "B6gJ5CBc",
   "channel": "chess24",
@@ -3835,6 +4034,183 @@
    }
   ],
   "start": 1788602400000
+ },
+ {
+  "name": "2026 Grand Chess Tour Finals | Finals",
+  "tour": "e5GlrSdz",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2026 grand chess tour finals | finals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "czZ3Amcp4Mw",
+    "label": "Caruana vs Praggnanandhaa",
+    "players": [
+     "Caruana",
+     "Praggnanandhaa"
+    ]
+   },
+   {
+    "round": 2,
+    "id": "-4euf__8DrQ",
+    "label": "Praggnanandhaa vs Caruana",
+    "toRound": 3,
+    "players": [
+     "Praggnanandhaa",
+     "Caruana"
+    ]
+   },
+   {
+    "round": 4,
+    "id": "wkDKrhjdb4Q",
+    "label": "Praggnanandhaa vs Caruana",
+    "toRound": 9,
+    "players": [
+     "Praggnanandhaa",
+     "Caruana"
+    ]
+   }
+  ],
+  "start": 1787677200000
+ },
+ {
+  "name": "2026 Grand Chess Tour Finals | Semifinals",
+  "tour": "8gvkBl7u",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2026 grand chess tour finals | semifinals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "YLjHBJ56pjc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "Ko9K44WHiNY",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "XQMvaRxK-cM",
+    "label": "Saint Louis Chess Club",
+    "toRound": 8
+   }
+  ],
+  "start": 1787418000000
+ },
+ {
+  "name": "GCT: Sinquefield Cup 2026",
+  "tour": "2sMqschv",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: sinquefield cup 2026"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "XCj_rpN3XF0",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "7BEGn7-zKok",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "IxXk2FyatNg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "82ws9DTCblo",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "XENi3MNEESk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "rBUIg5M8_-I",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "AbivSjdTZBc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "9y-pPSFm2kQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "eGCASm7ypSs",
+    "label": "Saint Louis Chess Club",
+    "toRound": 11
+   }
+  ],
+  "start": 1786383000000
+ },
+ {
+  "name": "GCT: Saint Louis Rapid & Blitz 2026 | Blitz",
+  "tour": "d63PvEma",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: saint louis rapid & blitz 2026 | blitz"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "fLhwVhqQPaQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "o9nYYxrTmBM",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   }
+  ],
+  "start": 1785949200000
+ },
+ {
+  "name": "GCT: Saint Louis Rapid & Blitz 2026 | Rapid",
+  "tour": "sM3C0X6U",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: saint louis rapid & blitz 2026 | rapid"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "PFNSo2Ad8ew",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "T5bpNVkZNvE",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "WBQgmm1twqQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   }
+  ],
+  "start": 1785690600000
  },
  {
   "name": "59th Biel International Chess Festival 2026 | Triathlon | Masters Final",
@@ -4163,6 +4539,52 @@
    }
   ],
   "start": 1783771200000
+ },
+ {
+  "name": "GCT: Super Rapid & Blitz Croatia 2026 | Blitz",
+  "tour": "TgUDRrvC",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: super rapid & blitz croatia 2026 | blitz"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "u07XlT-txSE",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "Of-BDyMbfOE",
+    "label": "Saint Louis Chess Club",
+    "toRound": 21
+   }
+  ],
+  "start": 1783170000000
+ },
+ {
+  "name": "GCT: Super Rapid & Blitz Croatia 2026 | Rapid",
+  "tour": "SzMDpnpF",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: super rapid & blitz croatia 2026 | rapid"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "3cxasDFtY5k",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 7,
+    "id": "xpASrpx4Wjs",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   }
+  ],
+  "start": 1782910800000
  },
  {
   "name": "FIDE World Team Rapid & Blitz Chess Championships 2026 | Blitz | Knockout",
@@ -4882,6 +5304,102 @@
   "start": 1779721200000
  },
  {
+  "name": "GCT: Super Chess Classic Romania 2026",
+  "tour": "p3ctK4xS",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: super chess classic romania 2026"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "CP3PBMU23dY",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "UZLFp63CEjw",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "f5c-vEDWx8A",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "nArfLwPcSn8",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "4nbSQ9xNbqs",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "NcZMUTxHpgw",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "O6X99wOtVaw",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "U7v6v7mJWJg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "wq3SdjQM1-k",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1778764200000
+ },
+ {
+  "name": "GCT: Super Rapid & Blitz Poland 2026 | Blitz",
+  "tour": "aOIR4BIM",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: super rapid & blitz poland 2026 | blitz"
+  ],
+  "videos": [
+   {
+    "round": 10,
+    "id": "AQlrmq3OkcY",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   }
+  ],
+  "start": 1778241600000
+ },
+ {
+  "name": "GCT: Super Rapid & Blitz Poland 2026 | Rapid",
+  "tour": "80nj8Ryn",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: super rapid & blitz poland 2026 | rapid"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "eEozwaB2xJU",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "0cdIkt4Q2zI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   }
+  ],
+  "start": 1777982580000
+ },
+ {
   "name": "FIDE Candidates 2026: Women",
   "tour": "xj4qM8Nw",
   "channel": "chess24",
@@ -5061,6 +5579,333 @@
    }
   ],
   "start": 1774788300000
+ },
+ {
+  "name": "American Cup 2026 | Women | Grand Final Rematch",
+  "tour": "2KvmonML",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | grand final rematch"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Xi-b3uJZ9i8",
+    "label": "Saint Louis Chess Club",
+    "toRound": 2
+   }
+  ],
+  "start": 1773335700000
+ },
+ {
+  "name": "American Cup 2026 | Women | Grand Final",
+  "tour": "NMGWXEZz",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | grand final"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Vwh2x0zEqUk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "dx3KJRPP_gw",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   }
+  ],
+  "start": 1773163800000
+ },
+ {
+  "name": "American Cup 2026 | Open | Grand Final",
+  "tour": "R74mhGr1",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | grand final"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Vwh2x0zEqUk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "dx3KJRPP_gw",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1773163800000
+ },
+ {
+  "name": "American Cup 2026 | Open | Elimination Final",
+  "tour": "I1umgR58",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | elimination final"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "2ZeevNjeh_g",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   }
+  ],
+  "start": 1773076500000
+ },
+ {
+  "name": "American Cup 2026 | Women | Elimination Final",
+  "tour": "gGmHQenO",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | elimination final"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "2ZeevNjeh_g",
+    "label": "Saint Louis Chess Club",
+    "toRound": 2
+   }
+  ],
+  "start": 1773076500000
+ },
+ {
+  "name": "American Cup 2026 | Women | Elimination Round 3",
+  "tour": "OSEwLPZG",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | elimination round 3"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "zWNEW2XhLJA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   }
+  ],
+  "start": 1772990100000
+ },
+ {
+  "name": "American Cup 2026 | Open | Elimination Round 3",
+  "tour": "vzMKMYeL",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | elimination round 3"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "zWNEW2XhLJA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1772990100000
+ },
+ {
+  "name": "American Cup 2026 | Open | Champions Final",
+  "tour": "SNPBNfyV",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | champions final"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "hmlcPrTrnxQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "zWNEW2XhLJA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1772908200000
+ },
+ {
+  "name": "American Cup 2026 | Women | Champions Final",
+  "tour": "qdXEmgIj",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | champions final"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "hmlcPrTrnxQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "zWNEW2XhLJA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1772908200000
+ },
+ {
+  "name": "American Cup 2026 | Open | Elimination Round 2",
+  "tour": "y7m55Rr7",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | elimination round 2"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "hmlcPrTrnxQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1772907300000
+ },
+ {
+  "name": "American Cup 2026 | Women | Elimination Round 2",
+  "tour": "VOoW0gAo",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | elimination round 2"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "hmlcPrTrnxQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 2
+   }
+  ],
+  "start": 1772907300000
+ },
+ {
+  "name": "American Cup 2026 | Open | Champions Semifinals",
+  "tour": "yPat3Tfw",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | champions semifinals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "6IlKNLlW9LI",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "bhjuOq1LAmo",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1772735400000
+ },
+ {
+  "name": "American Cup 2026 | Women | Champions Semifinals",
+  "tour": "pdqhre0U",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | champions semifinals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "6IlKNLlW9LI",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "bhjuOq1LAmo",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1772735400000
+ },
+ {
+  "name": "American Cup 2026 | Women | Elimination Round 1",
+  "tour": "0qFVXRcQ",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | elimination round 1"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "6IlKNLlW9LI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   }
+  ],
+  "start": 1772734500000
+ },
+ {
+  "name": "American Cup 2026 | Open | Elimination Round 1",
+  "tour": "x5VXxA6U",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | elimination round 1"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "6IlKNLlW9LI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 2
+   }
+  ],
+  "start": 1772734500000
+ },
+ {
+  "name": "American Cup 2026 | Women | Champions Quarterfinals",
+  "tour": "CgphSOML",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | women | champions quarterfinals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "LNNvbCov5Qw",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "RFu5FPmpr5U",
+    "label": "Saint Louis Chess Club",
+    "toRound": 5
+   }
+  ],
+  "start": 1772562600000
+ },
+ {
+  "name": "American Cup 2026 | Open | Champions Quarterfinals",
+  "tour": "qgiTu4CZ",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup 2026 | open | champions quarterfinals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "LNNvbCov5Qw",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "RFu5FPmpr5U",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1772562600000
  },
  {
   "name": "FIDE Freestyle Chess World Championship 2026 | Finals",
@@ -7922,6 +8767,57 @@
   "start": 1761990300000
  },
  {
+  "name": "2025 Clutch Chess: Champions Showdown",
+  "tour": "q193HT0B",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2025 clutch chess: champions showdown"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "JYTcUlC_6Hw",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "SiOIxedqs9E",
+    "label": "Saint Louis Chess Club",
+    "toRound": 12
+   },
+   {
+    "round": 13,
+    "id": "GYydM0eGKcQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   }
+  ],
+  "start": 1761584580000
+ },
+ {
+  "name": "2025 Grand Chess Tour Finals | Semifinals",
+  "tour": "oH3sJwLV",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2025 grand chess tour finals | semifinals"
+  ],
+  "videos": [
+   {
+    "round": 2,
+    "id": "aAo-qxORA0g",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "t5e-Buew2hQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 8
+   }
+  ],
+  "start": 1759084200000
+ },
+ {
   "name": "FIDE Grand Swiss 2025 | Open",
   "tour": "vSyxclHS",
   "channel": "chess24",
@@ -8042,6 +8938,87 @@
    }
   ],
   "start": 1756980900000
+ },
+ {
+  "name": "GCT: Sinquefield Cup 2025 | Sinquefield Cup",
+  "tour": "09ZG4Ez5",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: sinquefield cup 2025 | sinquefield cup"
+  ],
+  "videos": [
+   {
+    "round": 2,
+    "id": "ivOhsh6RnuQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "wgMUxjF6BpI",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "X7tnxyGFIlw",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "eFym0Ekc1r0",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "sMsExxmQ8gQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "ZnNL9nORW-8",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "W4dxYgU_Mag",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1755538200000
+ },
+ {
+  "name": "GCT: Saint Louis Rapid & Blitz 2025",
+  "tour": "78q4zb3p",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: saint louis rapid & blitz 2025"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "tct5SVF2Zko",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "kr744sAT7sQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 10,
+    "id": "4fBNxLoC8gY",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   },
+   {
+    "round": 19,
+    "id": "-w3XYbt5UP0",
+    "label": "Saint Louis Chess Club",
+    "toRound": 27
+   }
+  ],
+  "start": 1754932200000
  },
  {
   "name": "FIDE Women's World Cup 2025 | Finals",
@@ -8535,6 +9512,47 @@
   "start": 1751800500000
  },
  {
+  "name": "GCT: 2025 SuperUnited Rapid & Blitz Croatia",
+  "tour": "VI6SveX3",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: 2025 superunited rapid & blitz croatia"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "QxfMhtX8sME",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "c10QlxWopx0",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "v9zpX1w2CAk",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "Ak97mVZnCmU",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   },
+   {
+    "round": 19,
+    "id": "wweyZt4s1rk",
+    "label": "Saint Louis Chess Club",
+    "toRound": 27
+   }
+  ],
+  "start": 1751461800000
+ },
+ {
   "name": "FIDE World Rapid & Blitz Team Championships 2025 | Blitz (Knockout Stage)",
   "tour": "c6Pq8uR8",
   "channel": "FIDE",
@@ -8707,6 +9725,62 @@
   "start": 1749647100000
  },
  {
+  "name": "2025 Cairns Cup",
+  "tour": "MFr6IhpK",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2025 cairns cup"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "baijzLkuJg8",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "f9X1lU3VFnY",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "rS5CN-UkTHQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "rMWwvh7MZQY",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "NoUQbaVdhec",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "SFPnY36Jfgg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "pl1Woc1RRi4",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "PI9M67Nm9dA",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "d_9o1Kuuzc4",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1749576600000
+ },
+ {
   "name": "Norway Chess 2025 | Open",
   "tour": "PcsMbQ9J",
   "channel": "chess24",
@@ -8848,6 +9922,63 @@
   "start": 1748271600000
  },
  {
+  "name": "GCT: 2025 Superbet Classic Romania",
+  "tour": "xPpw1xOU",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: 2025 superbet classic romania"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "hawHv_8XzdU",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "XjksWX3CaIQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "zTSXaFbs8iU",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "3K18bZtkqO4",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "vlV9WaJ7QH0",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "SXD2PTXo0WY",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "K0Q3AXW3EqA",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "hQuxUsZGmFE",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "yVkRC_HigbI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 10
+   }
+  ],
+  "start": 1746621000000
+ },
+ {
   "name": "FIDE Women's Grand Prix 2024/25 | Austria",
   "tour": "0eZnPsBD",
   "channel": "FIDE",
@@ -8902,6 +10033,58 @@
    }
   ],
   "start": 1746537300000
+ },
+ {
+  "name": "GCT: 2025 Superbet Rapid & Blitz Poland | Blitz",
+  "tour": "oa8DrOKN",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: 2025 superbet rapid & blitz poland | blitz"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "DeXdlq4Th5c",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "SYUF0qkEi_o",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   }
+  ],
+  "start": 1745928300000
+ },
+ {
+  "name": "GCT: 2025 Superbet Rapid & Blitz Poland | Rapid",
+  "tour": "xQJBshFO",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "gct: 2025 superbet rapid & blitz poland | rapid"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Kb5BIzdUV14",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "xCdMM1UI0Sw",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "OU_ujExCQSE",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   }
+  ],
+  "start": 1745669400000
  },
  {
   "name": "FIDE Women's Grand Prix 2024/25 | Pune",
@@ -11265,6 +12448,109 @@
   "start": 1722591000000
  },
  {
+  "name": "SuperUnited Croatia 2024 | Blitz",
+  "tour": "y1NJ6zhZ",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "superunited croatia 2024 | blitz"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "62ib2mijbCY",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "PI_lUhn7cQA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   }
+  ],
+  "start": 1720875900000
+ },
+ {
+  "name": "SuperUnited Croatia 2024 | Rapid",
+  "tour": "FbgKL0MB",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "superunited croatia 2024 | rapid"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "J3L-_-Tg5FI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "z-97wdz03p4",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   }
+  ],
+  "start": 1720617000000
+ },
+ {
+  "name": "Superbet Romania Chess Classic 2024",
+  "tour": "K1NfeoWE",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "superbet romania chess classic 2024"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "dQCRWUp0ZOM",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "hKsJ-oNvyPk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "dafY4T-VOPQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "5rRcsk8ct2o",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "8n7UPFfUSSg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "XXlVXXs07nk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "H8tjJB_ocAg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "vT7DwgnMOuc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "jBqX3gqXJLA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 10
+   }
+  ],
+  "start": 1719405000000
+ },
+ {
   "name": "Norway Chess 2024 | Open",
   "tour": "qkY2yAcs",
   "channel": "chess24",
@@ -11408,6 +12694,47 @@
    }
   ],
   "start": 1716045300000
+ },
+ {
+  "name": "2024 Superbet Poland Rapid & Blitz",
+  "tour": "ViQgLgfz",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2024 superbet poland rapid & blitz"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "zwyH9MGJ-cg",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "83PHZgkNsxc",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "77IRk5h0r2M",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "3hLCsTO9HLQ",
+    "label": "Saint Louis Chess Club",
+    "toRound": 18
+   },
+   {
+    "round": 19,
+    "id": "3gEmfIVPllo",
+    "label": "Saint Louis Chess Club",
+    "toRound": 27
+   }
+  ],
+  "start": 1715166600000
  },
  {
   "name": "TePe Sigeman & Co Chess Tournament 2024",
@@ -13656,6 +14983,62 @@
   "start": 1690714800000
  },
  {
+  "name": "Cairns Cup 2023",
+  "tour": "YVhP7H3j",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2023"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "uSQB_mFpy7Y",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "KCAtiWRIQ-E",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "YqPxv6m0r3M",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "qD5Q5cyRJwc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "MsUpOHU6_js",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "QAnqIisxCO0",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "8oEGDhcqOeE",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "riskODWO1mQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "JD75LPSsAMc",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1685817000000
+ },
+ {
   "name": "FIDE World Chess Championship 2023",
   "tour": "lrdHUzyS",
   "channel": "chess24",
@@ -13873,6 +15256,182 @@
    }
   ],
   "start": 1681030800000
+ },
+ {
+  "name": "American Cup Blitz 2023",
+  "tour": "TQJNPdo7",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "american cup blitz 2023"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "mSmSty8gFic",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   }
+  ],
+  "start": 1679855400000
+ },
+ {
+  "name": "2023 American Cup",
+  "tour": "sMCJiBIp",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2023 american cup"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Mdh7X4HzpTM",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "aATXUwZ0IPo",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "ZJOYx36xlig",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "jQ2V0FPMx58",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "HoMW9G1JJ5E",
+    "label": "Saint Louis Chess Club",
+    "toRound": 7
+   },
+   {
+    "round": 8,
+    "id": "QNwCgvLsyfc",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "7ZOaz9--PdI",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 11,
+    "id": "eUtfLcYJ0Xg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 12,
+    "id": "H5tszqAaO7k",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 13,
+    "id": "mSmSty8gFic",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1679077800000
+ },
+ {
+  "name": "2023 American Women's Cup",
+  "tour": "U1koYFxA",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2023 american women's cup"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Mdh7X4HzpTM",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "aATXUwZ0IPo",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "ZJOYx36xlig",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "jQ2V0FPMx58",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "HoMW9G1JJ5E",
+    "label": "Saint Louis Chess Club",
+    "toRound": 7
+   },
+   {
+    "round": 8,
+    "id": "QNwCgvLsyfc",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "7ZOaz9--PdI",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 11,
+    "id": "eUtfLcYJ0Xg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 12,
+    "id": "H5tszqAaO7k",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1679077800000
+ },
+ {
+  "name": "2023 Saint Louis Super Swiss",
+  "tour": "qOwAnwjv",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2023 saint louis super swiss"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "qVLWP66i6WA",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "L_bKSyd2dYg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "li8l-FlWjwA",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "lQj3ji_0T0Y",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "kjQ7AkRCha8",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1678638600000
  },
  {
   "name": "Tata Steel Masters 2023",
@@ -14312,6 +15871,38 @@
   "start": 1668949200000
  },
  {
+  "name": "2022 Fall Chess Classic A group",
+  "tour": "StX6CtsH",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 fall chess classic a group"
+  ],
+  "videos": [
+   {
+    "round": 9,
+    "id": "lSSLiCiK41s",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1667412000000
+ },
+ {
+  "name": "2022 Fall Chess Classic B group",
+  "tour": "OTAiBXNZ",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 fall chess classic b group"
+  ],
+  "videos": [
+   {
+    "round": 9,
+    "id": "lSSLiCiK41s",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1667412000000
+ },
+ {
   "name": "Aimchess Rapid 2022 | Meltwater Champions Chess Tour",
   "tour": "GcU1P6pg",
   "channel": "chess24",
@@ -14403,6 +15994,35 @@
   "start": 1665763200000
  },
  {
+  "name": "2022 Champions Showdown: Chess 9LX",
+  "tour": "LCTlWx7Q",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 champions showdown: chess 9lx"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "UA28s6y_5l4",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "1wE78eVqwlU",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "xnhbijb96_4",
+    "label": "Saint Louis Chess Club",
+    "toRound": 12
+   }
+  ],
+  "start": 1663182900000
+ },
+ {
   "name": "Sinquefield Cup | Grand Chess Tour 2022",
   "tour": "7XjcrjaG",
   "channel": "chess24",
@@ -14457,6 +16077,73 @@
    }
   ],
   "start": 1662141600000
+ },
+ {
+  "name": "Sinquefield Cup | Grand Chess Tour 2022",
+  "tour": "7XjcrjaG",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "sinquefield cup | grand chess tour 2022"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "VyjXZKxInrs",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "-9NYnja2Uos",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "TkUkvLqHfZM",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "ToE0eRCpaWk",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1662141600000
+ },
+ {
+  "name": "Saint Louis Rapid & Blitz | Grand Chess Tour 2022",
+  "tour": "8uZcOeUY",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "saint louis rapid & blitz | grand chess tour 2022"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "pin_dmEexmE",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "LJ_RurGqk4E",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "DmGmZ7vi9NU",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "HwZ6VYSS_NQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "AW6EwNAdbPw",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1661536800000
  },
  {
   "name": "44th Chess Olympiad 2022 | Open | Boards 1-40",
@@ -15419,6 +17106,42 @@
   "start": 1658322000000
  },
  {
+  "name": "SuperUnited Croatia Rapid & Blitz | Grand Chess Tour 2022",
+  "tour": "IdrvE7Bo",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "superunited croatia rapid & blitz | grand chess tour 2022"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "yFoydqFqtao",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "YnXDnYFPv1M",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "ydE2eaoWay4",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "-C0T6-fyZ_4",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "moA9RGTY5TI",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1658322000000
+ },
+ {
   "name": "FIDE Candidates Tournament 2022",
   "tour": "kAvAGI7N",
   "channel": "chess24",
@@ -15579,6 +17302,22 @@
    }
   ],
   "start": 1655470800000
+ },
+ {
+  "name": "2022 Summer Chess Classic Group B",
+  "tour": "oALf7q2U",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 summer chess classic group b"
+  ],
+  "videos": [
+   {
+    "round": 10,
+    "id": "JsDHEmzFBec",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1654192800000
  },
  {
   "name": "2022 Norway Chess",
@@ -15750,6 +17489,175 @@
   "start": 1652976000000
  },
  {
+  "name": "2022 Superbet Chess Rapid & Blitz Poland",
+  "tour": "F0Tts3Ia",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 superbet chess rapid & blitz poland"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Oxn-jAEddTY",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "gZ98CgFEl4Y",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "e73lZJZXk00",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "pMew1uUWpQM",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "gkPc0GoVyJ4",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1652961600000
+ },
+ {
+  "name": "2022 Superbet Chess Classic Romania",
+  "tour": "d1RmKCil",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 superbet chess classic romania"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "5pvPgCxPDz4",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "5i9QcQoJ9oQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "84lE7vzQEb0",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "OTrmeaKxvp4",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "JFgcyp6vadQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "0LWvjkBIEko",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "lG0riNQg1Bo",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "14Yx6M-QFsc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "HbZFrIgJiRM",
+    "label": "Saint Louis Chess Club",
+    "toRound": 12
+   }
+  ],
+  "start": 1651752000000
+ },
+ {
+  "name": "2022 American Cup - Blitz tournament",
+  "tour": "AqxBkVd0",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 american cup - blitz tournament"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "c6Oj6tknq7I",
+    "label": "Saint Louis Chess Club",
+    "toRound": 8
+   }
+  ],
+  "start": 1651255200000
+ },
+ {
+  "name": "2022 American Cup",
+  "tour": "j5aJzrLK",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 american cup"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "ELCTPZKDBFk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "ErFCKSHSE0g",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "4MFGWkQlwb8",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "KpBJugrrdlQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "293de7KaqnA",
+    "label": "Saint Louis Chess Club",
+    "toRound": 7
+   },
+   {
+    "round": 8,
+    "id": "70ipmot2QjI",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   },
+   {
+    "round": 10,
+    "id": "FPySV6l2VjQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 11,
+    "id": "fblcVW90t2U",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 12,
+    "id": "btK2avmP2DI",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1650477600000
+ },
+ {
   "name": "MPL Indian Chess Tour 2022",
   "tour": "v63EdkIZ",
   "channel": "chess24",
@@ -15856,6 +17764,22 @@
    }
   ],
   "start": 1646834400000
+ },
+ {
+  "name": "2022 Spring Chess Classic",
+  "tour": "SkG3aW20",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2022 spring chess classic"
+  ],
+  "videos": [
+   {
+    "round": 10,
+    "id": "xjQ8gcYOM3Y",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1646247600000
  },
  {
   "name": "FIDE Grand Prix 2022 Leg 2 | Group stage",
@@ -16723,6 +18647,35 @@
   "start": 1631523600000
  },
  {
+  "name": "2021 Champions Showdown: Chess 9LX",
+  "tour": "q8Z5e8tQ",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2021 champions showdown: chess 9lx"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "hIzkuLiHxa8",
+    "label": "Saint Louis Chess Club",
+    "toRound": 3
+   },
+   {
+    "round": 4,
+    "id": "6F44kwaM3w8",
+    "label": "Saint Louis Chess Club",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "HTtc1LEtUrg",
+    "label": "Saint Louis Chess Club",
+    "toRound": 9
+   }
+  ],
+  "start": 1631127600000
+ },
+ {
   "name": "FIDE Online Chess Olympiad Division 1 2021 Pool D",
   "tour": "BnCtkoam",
   "channel": "FIDE",
@@ -16837,6 +18790,23 @@
    }
   ],
   "start": 1631088000000
+ },
+ {
+  "name": "2021 Champions Showdown : Ultimate Moves",
+  "tour": "9znN2gZ2",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2021 champions showdown : ultimate moves"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "2yOqbJJt7q4",
+    "label": "Saint Louis Chess Club",
+    "toRound": 4
+   }
+  ],
+  "start": 1631037600000
  },
  {
   "name": "Norway Chess 2021",
@@ -17394,6 +19364,129 @@
    }
   ],
   "start": 1629230400000
+ },
+ {
+  "name": "Sinquefield Cup 2021 | Grand Chess Tour",
+  "tour": "3j4xkdDz",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "sinquefield cup 2021 | grand chess tour"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "akeZxVypr4Y",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "fYPAirJ1gBs",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "_P76Bv9Ozzk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "KO0wHTF_deQ",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "3FNWd0HjLzY",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 6,
+    "id": "nqiAfhKb7dU",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 7,
+    "id": "p1t83SColnk",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 8,
+    "id": "mMJR0tAIVa8",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 9,
+    "id": "AvYtWWNJ1ok",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1629230400000
+ },
+ {
+  "name": "Saint Louis Rapid & Blitz 2021 | Grand Chess Tour",
+  "tour": "ixWvkAJ9",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "saint louis rapid & blitz 2021 | grand chess tour"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Cn1k2ZxqXoc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 2,
+    "id": "Xqmqnliqxqg",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "OL7_jI_aRIc",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "xtFbFFj62-k",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "xcaDYM8xxSA",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1628712000000
+ },
+ {
+  "name": "Croatia 2021 | Grand Chess Tour",
+  "tour": "Rwr4LiRI",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "croatia 2021 | grand chess tour"
+  ],
+  "videos": [
+   {
+    "round": 2,
+    "id": "OXuiLPC4_1A",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 3,
+    "id": "7hPMsHzLwes",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 4,
+    "id": "sK3xdaJbP9s",
+    "label": "Saint Louis Chess Club"
+   },
+   {
+    "round": 5,
+    "id": "wuJCiqo1Cgg",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1625662800000
  },
  {
   "name": "The Candidates Tournament 2020 - Round 14",
@@ -18079,6 +20172,54 @@
   "start": 1604336400000
  },
  {
+  "name": "2020 Champions Showdown: Chess 9LX, Final Day",
+  "tour": "N0SSOrk0",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2020 champions showdown: chess 9lx, final day"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "6Xdeg-PZOMg",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1600020000000
+ },
+ {
+  "name": "2020 Champions Showdown: Chess 9LX, Day 2",
+  "tour": "fRa9NlwM",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2020 champions showdown: chess 9lx, day 2"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "AGBowHQ0gU8",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1599933600000
+ },
+ {
+  "name": "2020 Champions Showdown: Chess 9LX, Day 1",
+  "tour": "uIwRfAP9",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "2020 champions showdown: chess 9lx, day 1"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "f4qCYtkZMnU",
+    "label": "Saint Louis Chess Club"
+   }
+  ],
+  "start": 1599847200000
+ },
+ {
   "name": "The Candidates Tournament 2020 - Round 7",
   "tour": "nZnOyJHM",
   "channel": "chess24",
@@ -18301,6 +20442,195 @@
    }
   ],
   "start": 1584442800000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 9",
+  "tour": "t9Jyehk8",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 9"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "DiUufnpwJPU",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "X3mysLrTLNo",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581879600000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 8",
+  "tour": "2AdVoZgA",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 8"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "FM3YyMgMzws",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "HjrqygBX4fg",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581793200000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 7",
+  "tour": "bkbwCt9E",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 7"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "eReAJ0pLNYw",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "ES1STzZwb5c",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581706800000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 6",
+  "tour": "5P5pPCtz",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 6"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Ii8HUeXUi2Q",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "uTI4u3BceX0",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581620400000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 5",
+  "tour": "pS0MUYSk",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 5"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "ksZGi19qmoY",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "VqjGSoYfH4Q",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581447600000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 4",
+  "tour": "TDsQwAJo",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 4"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "SLaUCWvSBPQ",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "a0xJ_aUx_nc",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581361200000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 3",
+  "tour": "etfGm5fg",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 3"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "NTICiqBbRGg",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "3e8Nw7hC1wY",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581274800000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 2",
+  "tour": "ozykJw5A",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 2"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "-CNLVrjNV58",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "MmwmTXd5gyY",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581188400000
+ },
+ {
+  "name": "Cairns Cup 2020 - Round 1",
+  "tour": "Da4AVoRP",
+  "channel": "Saint Louis Chess Club",
+  "keywords": [
+   "cairns cup 2020 - round 1"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "Fnw7GO1E6e4",
+    "label": "Saint Louis Chess Club（1）"
+   },
+   {
+    "round": 1,
+    "id": "_gDPgS552FQ",
+    "label": "Saint Louis Chess Club（2）"
+   }
+  ],
+  "start": 1581102000000
  },
  {
   "name": "Tata Steel Masters 2020 - Round 13",
