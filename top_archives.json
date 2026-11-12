@@ -3167,6 +3167,23 @@
   ]
  },
  {
+  "name": "Total Chess World Championship Tour Pilot 2026 | Group Stage | Combined",
+  "tour": "wLrwkC0C",
+  "channel": "chess24",
+  "keywords": [
+   "total chess world championship tour pilot 2026 | group stage | combined"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "lks7oGbFAdg",
+    "label": "chess24",
+    "toRound": 2
+   }
+  ],
+  "start": 1794405600000
+ },
+ {
   "name": "2026 Clutch Chess: Champions Showdown",
   "tour": "o6sVDB4M",
   "channel": "Saint Louis Chess Club",
