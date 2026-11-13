@@ -3179,6 +3179,12 @@
     "id": "lks7oGbFAdg",
     "label": "chess24",
     "toRound": 2
+   },
+   {
+    "round": 3,
+    "id": "re82PD3qiDs",
+    "label": "chess24",
+    "toRound": 4
    }
   ],
   "start": 1794405600000
