@@ -3167,11 +3167,11 @@
   ]
  },
  {
-  "name": "Total Chess World Championship Tour Pilot 2026 | Group Stage | Combined",
-  "tour": "wLrwkC0C",
+  "name": "Total Chess World Championship Tour Pilot 2026 | Group Stage | A",
+  "tour": "9lqCcStZ",
   "channel": "chess24",
   "keywords": [
-   "total chess world championship tour pilot 2026 | group stage | combined"
+   "total chess world championship tour pilot 2026 | group stage | a"
   ],
   "videos": [
    {
@@ -3197,6 +3197,135 @@
     "id": "BkV7PvYoN_E",
     "label": "chess24",
     "toRound": 8
+   },
+   {
+    "round": 9,
+    "id": "KznC7YwlF0c",
+    "label": "chess24",
+    "toRound": 10
+   }
+  ],
+  "start": 1794405600000
+ },
+ {
+  "name": "Total Chess World Championship Tour Pilot 2026 | Group Stage | B",
+  "tour": "h7DnvIHQ",
+  "channel": "chess24",
+  "keywords": [
+   "total chess world championship tour pilot 2026 | group stage | b"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "lks7oGbFAdg",
+    "label": "chess24",
+    "toRound": 2
+   },
+   {
+    "round": 3,
+    "id": "re82PD3qiDs",
+    "label": "chess24",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "ASNupzw1pN0",
+    "label": "chess24",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "BkV7PvYoN_E",
+    "label": "chess24",
+    "toRound": 8
+   },
+   {
+    "round": 9,
+    "id": "KznC7YwlF0c",
+    "label": "chess24",
+    "toRound": 10
+   }
+  ],
+  "start": 1794405600000
+ },
+ {
+  "name": "Total Chess World Championship Tour Pilot 2026 | Group Stage | D",
+  "tour": "OW6wzikj",
+  "channel": "chess24",
+  "keywords": [
+   "total chess world championship tour pilot 2026 | group stage | d"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "lks7oGbFAdg",
+    "label": "chess24",
+    "toRound": 2
+   },
+   {
+    "round": 3,
+    "id": "re82PD3qiDs",
+    "label": "chess24",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "ASNupzw1pN0",
+    "label": "chess24",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "BkV7PvYoN_E",
+    "label": "chess24",
+    "toRound": 8
+   },
+   {
+    "round": 9,
+    "id": "KznC7YwlF0c",
+    "label": "chess24",
+    "toRound": 10
+   }
+  ],
+  "start": 1794405600000
+ },
+ {
+  "name": "Total Chess World Championship Tour Pilot 2026 | Group Stage | C",
+  "tour": "UPwHJSZj",
+  "channel": "chess24",
+  "keywords": [
+   "total chess world championship tour pilot 2026 | group stage | c"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "lks7oGbFAdg",
+    "label": "chess24",
+    "toRound": 2
+   },
+   {
+    "round": 3,
+    "id": "re82PD3qiDs",
+    "label": "chess24",
+    "toRound": 4
+   },
+   {
+    "round": 5,
+    "id": "ASNupzw1pN0",
+    "label": "chess24",
+    "toRound": 6
+   },
+   {
+    "round": 7,
+    "id": "BkV7PvYoN_E",
+    "label": "chess24",
+    "toRound": 8
+   },
+   {
+    "round": 9,
+    "id": "KznC7YwlF0c",
+    "label": "chess24",
+    "toRound": 10
    }
   ],
   "start": 1794405600000
