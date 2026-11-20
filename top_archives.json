@@ -3167,6 +3167,23 @@
   ]
  },
  {
+  "name": "Total Chess World Championship Tour Pilot 2026 | Finals",
+  "tour": "6PTzCQFL",
+  "channel": "chess24",
+  "keywords": [
+   "total chess world championship tour pilot 2026 | finals"
+  ],
+  "videos": [
+   {
+    "round": 1,
+    "id": "65lAZX1gOSU",
+    "label": "chess24",
+    "toRound": 7
+   }
+  ],
+  "start": 1795096800000
+ },
+ {
   "name": "Total Chess World Championship Tour Pilot 2026 | Semifinals",
   "tour": "qEXour3L",
   "channel": "chess24",
